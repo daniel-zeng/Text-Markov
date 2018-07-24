@@ -8,3 +8,6 @@ python generate.py
 ```
 
 Dataset from http://www.paulgraham.com/articles.html
+
+### Dependencies:
+Requires numpy
